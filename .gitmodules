@@ -1,0 +1,6 @@
+[submodule "Code-STS_GNN"]
+	path = Code-STS_GNN
+	url = https://kt0121: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@github.com/kt0121/Code-STS_GNN.git
+[submodule "thesis-STS_GNN"]
+	path = thesis-STS_GNN
+	url = https://kt0121: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@github.com/kt0121/thesis-STS_GNN.git
